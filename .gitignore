@@ -1,0 +1,14 @@
+# .NET MAUI
+bin/
+obj/
+
+
+# Build results
+**/bin/
+**/obj/
+
+# IDEs and editors
+.vs/
+
+# USER Specific
+MyAssistantSolution/MyAssistant.Presentation/MyAssistant.Presentation.csproj.user
